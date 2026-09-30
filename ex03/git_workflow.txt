@@ -1,0 +1,23 @@
+git status
+git config --global user.name "ahmad"
+git config --global user.email "ahmadxci55@gmail.com"
+git init
+git status
+git add hello.txt
+git status
+git commit -m "init a new file called hello.txt"
+git status
+git remote add origin https://github.com/Professor606/discovery-web-piscine.git\n
+git remote -v\n
+git push -u origin main\n
+git push
+git push --set-upstream origin master
+touch gitpass.txt
+git log
+git log > git_log.txt
+git status
+git add *
+git commit -m "added README.md file"
+git status
+git log
+git diff
